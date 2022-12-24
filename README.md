@@ -1,3 +1,4 @@
+## DEPRECATED
 Visit The Website: https://IshTakkar.github.io/wildfire-tracker
 ## React Wildfire Tracker
 A React Web Application created to track realtime wildfires around the globe using NASA's Open API. The map data has been fetched from the OpenStreetMap API, using react-leaflet. I also used font-awesome icon pack for the fire icon.
